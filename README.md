@@ -25,4 +25,4 @@ Features:<br/>
 3. Pagination<br/>
 4. Login<br/>
 5. Validations<br/>
-6. Movie Card with ratinig<br/>
+6. Movie Card with rating<br/>
