@@ -5,7 +5,7 @@ Backend:
 3. run : npm install<br/>
 4. npm run start:dev<br/>
 <br/>
-Frontend:
+Frontend:<br/>
 5. Go to source folder of the front-end<br/>
 6. npm install<br/>
 7. npm start<br/>
