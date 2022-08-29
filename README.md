@@ -13,8 +13,7 @@ Frontend:<br/>
 Credentials:
 username: test<br/>
 password: abcd1234<br/>
-<br/>
-Please feel free to ask me if you have any queries or clarifications.
+
 <br/>
 Features:<br/>
 1. Clean code<br/>
@@ -23,3 +22,5 @@ Features:<br/>
 4. Login<br/>
 5. Validations<br/>
 6. Movie Card with rating<br/>
+
+Please feel free to ask me if you have any queries or clarifications.
