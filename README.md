@@ -16,7 +16,7 @@ password: abcd1234<br/>
 <br/>
 Please feel free to ask me if you have any queries or clarifications.
 <br/>
-Features:
+Features:<br/>
 1. Clean code<br/>
 2. Alert<br/>
 3. Pagination<br/>
