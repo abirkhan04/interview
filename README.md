@@ -5,7 +5,6 @@ Backend:<br/>
 3. run : npm install<br/>
 4. npm run start:dev<br/>
 <br/>
-<br/>
 Frontend:<br/>
 5. Go to source folder of the front-end<br/>
 6. npm install<br/>
@@ -15,7 +14,6 @@ Frontend:<br/>
 Credentials<br/>
 username: test<br/>
 password: abcd1234<br/>
-<br/>
 <br/>
 Please feel free to ask me if you have any queries or clarifications.
 
